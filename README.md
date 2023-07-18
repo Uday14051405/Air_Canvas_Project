@@ -1,1 +1,3 @@
 # Air_Canvas_Project
+
+The "Air Canvas" project is an interactive drawing application that offers users a real-time digital art creation experience by leveraging hand gestures captured through a webcam. By utilizing computer vision techniques and the Mediapipe library, the application is able to detect and track hand movements with precision. Users can draw on a virtual canvas by simply moving their index finger while pressing the thumb, allowing them to create different colored lines. With its intuitive hand gestures, the project empowers users to express their creativity, providing a unique and engaging drawing experience.
